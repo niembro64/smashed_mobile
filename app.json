@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "smashed_mobile",
-    "slug": "smashed_mobile",
+    "name": "Smashed",
+    "slug": "smashed",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
